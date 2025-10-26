@@ -25,5 +25,5 @@ git clone ttps://github.com/jogiesp/jogifrog.git
 cd insane-repo
 ~~~
 ~~~
-echo "💥🔥 LET'S GO CRAZY 🔥💥"
+echo "💥🔥 LET'S GO CRAZY 🙈🔥💥"
 ~~~
